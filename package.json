@@ -1,0 +1,22 @@
+{
+  "name": "this_tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepGT/this_tailwindcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepGT/this_tailwindcss/issues"
+  },
+  "homepage": "https://github.com/stepGT/this_tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
