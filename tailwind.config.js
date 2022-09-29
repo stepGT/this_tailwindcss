@@ -9,6 +9,9 @@ module.exports = {
       colors: {
         'logo-main': '#9b0404',
       },
+      fontFamily: {
+        main: ['Montserrat']
+      }
     },
   },
   plugins: [],
